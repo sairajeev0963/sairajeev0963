@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm sairajeev 👋
 
-<!--
-**sairajeev0963/sairajeev0963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer learning HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+## 🌱 What I'm working on:
+- Building cool projects on CodePen and GitHub
+- Learning full-stack development with The Odin Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- 💻 My first website: [Live Link](https://sairajeev0963.github.io/my-first-website/)
+- 📧 Email: sairajeev210@gmail.com
+
+## 🚀 Skills:
+HTML | CSS | JavaScript | Git | React *(learning soon!)*
